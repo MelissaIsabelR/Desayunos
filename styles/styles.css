@@ -1,0 +1,30 @@
+table{
+   background: rgb(111, 228, 208); 
+   margin: auto;
+   padding: 10px;
+}
+tr>td{
+    padding: 10px;
+
+}
+thead> th{
+    padding:10px;
+}
+select{
+    margin: auto;
+    padding: 10px;
+   
+
+}
+select>option{
+    margin: 20px;
+}
+body{
+    margin: 20px;
+}
+.add{
+    float: right;
+}
+.active{
+    background: rgb(203, 119, 224) !important;
+}
